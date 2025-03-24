@@ -1,4 +1,4 @@
-# 🎙️ Voice-to-Command AI Assistant  
+# 🎙️ Mensab - a Voice-to-Command AI Assistant  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python" alt="Python">
