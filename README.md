@@ -13,10 +13,9 @@ A voice-controlled assistant that **transcribes speech to text** and **executes 
 ---
 
 ## ✨ Features  
-- 🎤 **Wake-word detection** ("Svegliati" in Italian)  
+- 🎤 **Wake-word detection** 
 - 🔍 **Speech-to-Text** using `faster-whisper`  
 - 💻 **Bash script generation** via `Ollama`  
-- 🛠️ **Error handling** with auto-retry logic  
 
 ---
 
