@@ -1,4 +1,4 @@
-# Voice-Controlled AI Assistant (Mensab)
+# Overview
 
 A modular voice assistant system that combines wake-word detection, speech-to-text conversion, and local LLM processing to execute tasks through natural language commands.
 
